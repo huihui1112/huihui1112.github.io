@@ -1,0 +1,19 @@
+# Site settings
+name: 左晓晖
+location: 上海
+company: 智阳网络
+position: Java开发工程师
+github: https://github.com/
+facebook: https://www.facebook.com/
+phone: 18661213308
+email: zuoxiaohui1010@163.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
