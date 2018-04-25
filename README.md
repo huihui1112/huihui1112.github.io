@@ -1,3 +1,5 @@
+原作者链接:https://gitee.com/xiaodan_yu/resume.io
+尊重一下版权
 # Funday -- 个人简历模板
 
 <a href='http://gitee.com/xiaodan_yu/resume.io/stargazers'><img src='http://gitee.com/xiaodan_yu/resume.io/badge/star.svg?theme=dark' alt='star'></img></a>
@@ -89,7 +91,7 @@ Configuration file: C:/..../resume.io/_config.yml
 
 ## 在线预览
 
-[非你莫属--个人简历模板](http://xiaodan_yu.gitee.io/resume.io)
+[非你莫属--个人简历模板](http://xiaodan_yu.gitee.io/resume.io) 这是原作者链接 尊重一下版权
 
 ## 截图预览
 
